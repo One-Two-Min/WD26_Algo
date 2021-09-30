@@ -1,9 +1,5 @@
 # [고득점 Kit] 소수 찾기
 
-link: https://programmers.co.kr/learn/courses/30/lessons/42839
-태그: 완전탐색
-파일: https://www.notion.so/51891f553f57409cacf00ab052c0bed8
-
 # 풀이
 
 ---
