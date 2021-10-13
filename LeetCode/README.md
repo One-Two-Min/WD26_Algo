@@ -2,10 +2,11 @@
 
 ------
 
-| #    | 태그   | 문제                                                         | 난이도 | 풀이                                                         | 비고 |
-| ---- | ------ | ------------------------------------------------------------ | ------ | ------------------------------------------------------------ | ---- |
-| 763  | Greedy | [Partition Labels](https://leetcode.com/problems/partition-labels/) | Medium | [Swift](https://github.com/One-Two-Min/WD26_Algo/tree/main/LeetCode/763.%20Partition%20Labels) | ✅    |
-| 860  | Greedy | [Lemonade Change](https://leetcode.com/problems/lemonade-change/) | Easy   | [Swift](https://github.com/One-Two-Min/WD26_Algo/tree/main/LeetCode/860.%20Lemonade%20Change) | ✅    |
-|      |        |                                                              |        |                                                              |      |
-|      |        |                                                              |        |                                                              |      |
+| #    | 태그   | 문제                                                         | 난이도 | 풀이                                                         | 블로그                                  | 비고 |
+| ---- | ------ | ------------------------------------------------------------ | ------ | ------------------------------------------------------------ | --------------------------------------- | ---- |
+| 763  | Greedy | [Partition Labels](https://leetcode.com/problems/partition-labels/) | Medium | [Swift](https://github.com/One-Two-Min/WD26_Algo/tree/main/LeetCode/763.%20Partition%20Labels) |                                         | ✅    |
+| 797  | DFS    | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) | Medium | [Swift](https://github.com/One-Two-Min/WD26_Algo/tree/main/LeetCode/797.%20All%20Paths%20From%20Source%20to%20Target) | [링크](https://one10004.tistory.com/64) | ✅    |
+| 860  | Greedy | [Lemonade Change](https://leetcode.com/problems/lemonade-change/) | Easy   | [Swift](https://github.com/One-Two-Min/WD26_Algo/tree/main/LeetCode/860.%20Lemonade%20Change) |                                         | ✅    |
+|      |        |                                                              |        |                                                              |                                         |      |
+|      |        |                                                              |        |                                                              |                                         |      |
 
