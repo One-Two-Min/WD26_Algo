@@ -4,6 +4,7 @@
 
 | #     | 태그        | 문제                                                   | 난이도   | 풀이                                                         | 비고 |
 | ----- | ----------- | ------------------------------------------------------ | -------- | ------------------------------------------------------------ | ---- |
+| 1068  | DFS         | [트리](https://www.acmicpc.net/problem/1068)           | Gold 5   | [블로그](https://one10004.tistory.com/105)                   | ✅    |
 | 1738  | 벨만 포드   | [골목길](https://www.acmicpc.net/problem/1738)         | Gold 2   | [블로그](https://one10004.tistory.com/91)                    | ✅    |
 | 11404 | 최단 경로   | [플로이드](https://www.acmicpc.net/problem/11404)      | Gold 4   | [블로그](https://one10004.tistory.com/84?category=875952)    | ✅    |
 | 11657 | 최단 경로   | [타임머신](https://www.acmicpc.net/problem/11657)      | Gold 4   | [블로그](https://one10004.tistory.com/86)                    | ✅    |
