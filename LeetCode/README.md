@@ -15,5 +15,5 @@
 | 841  | DFS           | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | Medium | Swift, Python                                                | [링크](https://one10004.tistory.com/100) | ✅                         |
 | 860  | Greedy        | [Lemonade Change](https://leetcode.com/problems/lemonade-change/) | Easy   | [Swift](https://github.com/One-Two-Min/WD26_Algo/tree/main/LeetCode/860.%20Lemonade%20Change) |                                          | ✅                         |
 | 1334 | 플로이드 워셜 | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium | Swift, Python                                                | [링크](https://one10004.tistory.com/83)  | ✅                         |
-|      |               |                                                              |        |                                                              |                                          |                           |
+| 1663  | Greedy        | [Smallest String With A Given Numeric Value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/) | Medium   | Swift, Python |   [링크](https://one10004.tistory.com/146)                                       | ✅                         |
 
