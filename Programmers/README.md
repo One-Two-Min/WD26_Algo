@@ -9,6 +9,7 @@
 | 고득점 Kit       | 스택/큐  | [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) | Level 2 | Swift, Python | ✅    | [링크](https://one10004.tistory.com/157)                  |
 | 고득점 Kit       | 스택/큐  | [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) | Level 2 | Swift, Python | ✅    | [링크](https://one10004.tistory.com/160)                  |
 | 고득점 Kit       | 스택/큐  | [다리는 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) | Level 2 | Swift, Python | ✅    | [링크](https://one10004.tistory.com/164)                  |
+| 고득점 Kit       | 스택/큐  | [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584) | Level 2 | Python | ✅    | [링크](https://one10004.tistory.com/165)                  |
 | 고득점 Kit       | 탐욕법  | [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) | Level 2 | Swift, Python | ✅    | [링크](https://one10004.tistory.com/135)                  |
 | 고득점 Kit       | 탐욕법  | [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) | Level 2 | Python | ✅    | [링크](https://one10004.tistory.com/139)                  |
 | 고득점 Kit       | 탐욕법  | [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885) | Level 2 | Python | ✅    | [링크](https://one10004.tistory.com/140)                  |
