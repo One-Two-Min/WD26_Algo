@@ -27,5 +27,6 @@
 | 고득점 Kit       | 탐욕법  | [섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861) | Level 3 | Swift, Python | ✅    | [링크](https://one10004.tistory.com/142)                  |
 | 고득점 Kit       | 탐욕법  | [단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884) | Level 3 | Python | ✅    | [링크](https://one10004.tistory.com/143)                  |
 | 고득점 Kit       | 이분탐색  | [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238) | Level 3 | Swift, Python                                                | ✅    | [링크](https://one10004.tistory.com/124)                 |
+| 고득점 Kit       | 힙  | [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627) | Level 3 | Swift, Python                                                | ✅    | [링크](https://one10004.tistory.com/176)                 |
 | 고득점 Kit       | 이분탐색  | [징검다리](https://programmers.co.kr/learn/courses/30/lessons/43236) | Level 4 | Swift, Python                                                | ✅    | [링크](https://one10004.tistory.com/126?category=882437) |
 
