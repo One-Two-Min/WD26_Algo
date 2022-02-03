@@ -9,6 +9,7 @@
 | 고득점 Kit       | 해시  | [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) | Level 1 | Python | ✅    | [링크](https://one10004.tistory.com/167)                  |
 | 고득점 Kit       | 해시  | [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) | Level 2 | Python | ✅    | [링크](https://one10004.tistory.com/169)                  |
 | 고득점 Kit       | 해시  | [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) | Level 2 | Swift, Python | ✅    | [링크](https://one10004.tistory.com/171)                  |
+| 고득점 Kit       | 정렬  | [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) | Level 2 | Swift, Python | ✅    | [링크](https://one10004.tistory.com/178)                  |
 | 고득점 Kit       | 스택/큐  | [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) | Level 2 | Swift, Python | ✅    | [링크](https://one10004.tistory.com/157)                  |
 | 고득점 Kit       | 스택/큐  | [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) | Level 2 | Swift, Python | ✅    | [링크](https://one10004.tistory.com/160)                  |
 | 고득점 Kit       | 스택/큐  | [다리는 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) | Level 2 | Swift, Python | ✅    | [링크](https://one10004.tistory.com/164)                  |
