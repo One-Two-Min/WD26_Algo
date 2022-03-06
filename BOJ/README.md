@@ -18,6 +18,7 @@
 | 3055  | BFS         | [탈출](https://www.acmicpc.net/problem/3055)           | Gold 4   | [블로그](https://one10004.tistory.com/110)                   | ✅    |
 | 3079  | 이분 탐색         | [입국심사](https://www.acmicpc.net/problem/3079)           | Gold 5   | [블로그](https://one10004.tistory.com/195)                   | ✅    |
 | 4195  | 유니온 파인드  | [친구 네트워크](https://www.acmicpc.net/problem/4195)           | Gold 2   | [블로그](https://one10004.tistory.com/197)                   | ✅    |
+| 11000 | 그리디   | [강의실 배정](https://www.acmicpc.net/problem/11000)      | Gold 5   | [블로그](https://one10004.tistory.com/203)    | ✅    |
 | 11049 | DP   | [행렬 곱셈 순서](https://www.acmicpc.net/problem/11049)       | Gold 3  | [블로그](https://one10004.tistory.com/193)                    | 🚫   |
 | 11404 | 최단 경로   | [플로이드](https://www.acmicpc.net/problem/11404)      | Gold 4   | [블로그](https://one10004.tistory.com/84?category=875952)    | ✅    |
 | 11657 | 최단 경로   | [타임머신](https://www.acmicpc.net/problem/11657)      | Gold 4   | [블로그](https://one10004.tistory.com/86)                    | ✅    |
