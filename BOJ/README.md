@@ -17,6 +17,7 @@
 | 2437 | 그리디   | [저울](https://www.acmicpc.net/problem/2437)       | Gold 3   | [블로그](https://one10004.tistory.com/202)                    | 🚫    |
 | 2631 | DP   | [줄세우기](https://www.acmicpc.net/problem/2631)       | Gold 5   | [블로그](https://one10004.tistory.com/192)                    | ✅    |
 | 3055  | BFS         | [탈출](https://www.acmicpc.net/problem/3055)           | Gold 4   | [블로그](https://one10004.tistory.com/110)                   | ✅    |
+| 3078  | 슬라이딩 윈도우 | [좋은 친구](https://www.acmicpc.net/problem/3078)           | Gold 3   | [블로그](https://one10004.tistory.com/207)                   | ✅    |
 | 3079  | 이분 탐색         | [입국심사](https://www.acmicpc.net/problem/3079)           | Gold 5   | [블로그](https://one10004.tistory.com/195)                   | ✅    |
 | 4195  | 유니온 파인드  | [친구 네트워크](https://www.acmicpc.net/problem/4195)           | Gold 2   | [블로그](https://one10004.tistory.com/197)                   | ✅    |
 | 9466  | DFS | [텀 프로젝트](https://www.acmicpc.net/problem/9466)           | Gold 3   | [블로그](https://one10004.tistory.com/205)                   | ✅    |
