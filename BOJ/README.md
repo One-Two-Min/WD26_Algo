@@ -11,6 +11,7 @@
 | 1300 | 이분 탐색   | [K번째 수](https://www.acmicpc.net/problem/1300)       | Gold 2   | [블로그](https://one10004.tistory.com/188)                    | ✅    |
 | 1339 | 그리디   | [단어 수학](https://www.acmicpc.net/problem/1339)       | Gold 4   | [블로그](https://one10004.tistory.com/201)                    | ✅    |
 | 1647  | 그래프   | [도시 분할 계획](https://www.acmicpc.net/problem/1647)         | Gold 4   | [블로그](https://one10004.tistory.com/198)                    | ✅    |
+| 1655  | 우선순위 큐   | [가운데를 말해요](https://www.acmicpc.net/problem/1655)         | Gold 2| [블로그](https://one10004.tistory.com/208)                    | ✅    |
 | 1700  | 그리디   | [멀티탭 스케줄링](https://www.acmicpc.net/problem/1700)         | Gold 1   | [블로그](https://one10004.tistory.com/204)                    | ✅    |
 | 1738  | 벨만 포드   | [골목길](https://www.acmicpc.net/problem/1738)         | Gold 2   | [블로그](https://one10004.tistory.com/91)                    | ✅    |
 | 2212 | 그리디   | [센서](https://www.acmicpc.net/problem/2212)       | Gold 5   | [블로그](https://one10004.tistory.com/191)                    | ✅    |
