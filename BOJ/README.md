@@ -34,6 +34,7 @@
 | 14889 | 브루트 포스 | [스타트와 링크](https://www.acmicpc.net/problem/14889) | Silver 3 | [Swift](https://github.com/One-Two-Min/WD26_Algo/tree/main/BOJ/14889.%20%EC%8A%A4%ED%83%80%ED%8A%B8%EC%99%80%20%EB%A7%81%ED%81%AC) | ✅    |
 | 14940 | BFS   | [쉬운 최단거리](https://www.acmicpc.net/problem/14940)       | Gold 5   | [블로그](https://one10004.tistory.com/186)                    | ✅    |
 | 15422 | 최단 경로   | [Bumped!](https://www.acmicpc.net/problem/15422)       | Gold 1   | [블로그](https://one10004.tistory.com/87)                    | ✅    |
+| 15591 | BFS   | [MooTube (Silver)](https://www.acmicpc.net/problem/15591)       | Gold 5   | [블로그](https://one10004.tistory.com/212)                    | ✅    |
 | 15961 | 슬라이딩 윈도우   | [회전 초밥](https://www.acmicpc.net/problem/15961)      | Gold 4   | [블로그](https://one10004.tistory.com/194)    | ✅    |
 | 15997 | 브루트 포스  | [승부 예측](https://www.acmicpc.net/problem/15997)      | Gold 3   | [블로그](https://one10004.tistory.com/211)    | ✅    |
 | 17144 | 구현   | [미세먼지 안녕!](https://www.acmicpc.net/problem/17144)       | Gold 4   | [블로그](https://one10004.tistory.com/190)                    | ✅    |
