@@ -40,4 +40,5 @@
 | 17144 | 구현   | [미세먼지 안녕!](https://www.acmicpc.net/problem/17144)       | Gold 4   | [블로그](https://one10004.tistory.com/190)                    | ✅    |
 | 17182 | 플로이드 워셜   | [우주 탐사선](https://www.acmicpc.net/problem/17182)       | Gold 2   | [블로그](https://one10004.tistory.com/196)                    | ✅    |
 | 18428 | 브루트 포스, 백트래킹   | [감시 피하기](https://www.acmicpc.net/problem/18428)       | Silver 1   | [블로그](https://one10004.tistory.com/187)                    | ✅    |
+| 18430 | 백트래킹   | [무기 공학](https://www.acmicpc.net/problem/18430)       | Gold 5 | [블로그](https://one10004.tistory.com/213)  | ✅    |
 
