@@ -25,6 +25,7 @@
 | 3079  | 이분 탐색         | [입국심사](https://www.acmicpc.net/problem/3079)           | Gold 5   | [블로그](https://one10004.tistory.com/195)                   | ✅    |
 | 3745  | LIS | [오름세](https://www.acmicpc.net/problem/3745)           | Gold 2   | [블로그](https://one10004.tistory.com/216)                   | ✅    |
 | 4195  | 유니온 파인드  | [친구 네트워크](https://www.acmicpc.net/problem/4195)           | Gold 2   | [블로그](https://one10004.tistory.com/197)                   | ✅    |
+| 4256  | 재귀 | [트리](https://www.acmicpc.net/problem/4256)           | Gold 3   | [블로그](https://one10004.tistory.com/218)                   | ✅    |
 | 8980  | 그리디 | [택배](https://www.acmicpc.net/problem/8980)           | Gold 3   | [블로그](https://one10004.tistory.com/214)                   | ✅    |
 | 9466  | DFS | [텀 프로젝트](https://www.acmicpc.net/problem/9466)           | Gold 3   | [블로그](https://one10004.tistory.com/205)                   | ✅    |
 | 9663  | 백트래킹 | [N-Queen](https://www.acmicpc.net/problem/9663)           | Gold 5   | [블로그](https://one10004.tistory.com/206)                   | ✅    |
