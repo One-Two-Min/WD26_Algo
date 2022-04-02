@@ -29,6 +29,7 @@
 | 8980  | 그리디 | [택배](https://www.acmicpc.net/problem/8980)           | Gold 3   | [블로그](https://one10004.tistory.com/214)                   | ✅    |
 | 9466  | DFS | [텀 프로젝트](https://www.acmicpc.net/problem/9466)           | Gold 3   | [블로그](https://one10004.tistory.com/205)                   | ✅    |
 | 9663  | 백트래킹 | [N-Queen](https://www.acmicpc.net/problem/9663)           | Gold 5   | [블로그](https://one10004.tistory.com/206)                   | ✅    |
+| 10159 | 플로이드 워셜   | [저울](https://www.acmicpc.net/problem/10159)      | Gold 3   | [블로그](https://one10004.tistory.com/219)    | ✅    |
 | 11000 | 그리디   | [강의실 배정](https://www.acmicpc.net/problem/11000)      | Gold 5   | [블로그](https://one10004.tistory.com/203)    | ✅    |
 | 11049 | DP   | [행렬 곱셈 순서](https://www.acmicpc.net/problem/11049)       | Gold 3  | [블로그](https://one10004.tistory.com/193)                    | 🚫   |
 | 11404 | 최단 경로   | [플로이드](https://www.acmicpc.net/problem/11404)      | Gold 4   | [블로그](https://one10004.tistory.com/84?category=875952)    | ✅    |
