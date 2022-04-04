@@ -15,6 +15,7 @@
 | 1655  | 우선순위 큐   | [가운데를 말해요](https://www.acmicpc.net/problem/1655)         | Gold 2| [블로그](https://one10004.tistory.com/208)                    | ✅    |
 | 1700  | 그리디   | [멀티탭 스케줄링](https://www.acmicpc.net/problem/1700)         | Gold 1   | [블로그](https://one10004.tistory.com/204)                    | ✅    |
 | 1738  | 벨만 포드   | [골목길](https://www.acmicpc.net/problem/1738)         | Gold 2   | [블로그](https://one10004.tistory.com/91)                    | ✅    |
+| 1800  | 다익스트라   | [인터넷 설치](https://www.acmicpc.net/problem/1800)         | Gold 1   | [블로그](https://one10004.tistory.com/220)                    |⚠️  |
 | 1949  | DP   | [우수 마을](https://www.acmicpc.net/problem/1949)         | Gold 2   | [블로그](https://one10004.tistory.com/215)                    |⚠️  |
 | 2212 | 그리디   | [센서](https://www.acmicpc.net/problem/2212)       | Gold 5   | [블로그](https://one10004.tistory.com/191)                    | ✅    |
 | 2437 | 그리디   | [저울](https://www.acmicpc.net/problem/2437)       | Gold 3   | [블로그](https://one10004.tistory.com/202)                    | 🚫    |
