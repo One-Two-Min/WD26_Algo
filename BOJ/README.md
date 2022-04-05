@@ -4,6 +4,7 @@
 
 | #     | 태그        | 문제                                                   | 난이도   | 풀이                                                         | 비고 |
 | ----- | ----------- | ------------------------------------------------------ | -------- | ------------------------------------------------------------ | ---- |
+| 1011  | 수학  | [Fly me to the Alpha Centauri](https://www.acmicpc.net/problem/1011) | Gold 5   | [블로그](https://one10004.tistory.com/222)          | ✅    |
 | 1022  | 구현         | [소용돌이 예쁘게 출력하기](https://www.acmicpc.net/problem/1022)           | Gold 4   | [블로그](https://one10004.tistory.com/200)                   | ✅    |
 | 1068  | DFS         | [트리](https://www.acmicpc.net/problem/1068)           | Gold 5   | [블로그](https://one10004.tistory.com/105)                   | ✅    |
 | 1072  | 이분탐색         | [게임](https://www.acmicpc.net/problem/1072)           | Silver 3   | [블로그](https://one10004.tistory.com/129)                   | ✅    |
