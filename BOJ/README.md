@@ -23,6 +23,7 @@
 | 2437 | 그리디   | [저울](https://www.acmicpc.net/problem/2437)       | Gold 3   | [블로그](https://one10004.tistory.com/202)                    | 🚫    |
 | 2616 | DP, 구간합   | [소형기관차](https://www.acmicpc.net/problem/2616)       | Gold 4   | [블로그](https://one10004.tistory.com/209)                    | ✅    |
 | 2631 | DP   | [줄세우기](https://www.acmicpc.net/problem/2631)       | Gold 5   | [블로그](https://one10004.tistory.com/192)                    | ✅    |
+| 2632 | 누적합  | [피자판매](https://www.acmicpc.net/problem/2632)       | Gold 2   | [블로그](https://one10004.tistory.com/225)                    | ✅    |
 | 3055  | BFS         | [탈출](https://www.acmicpc.net/problem/3055)           | Gold 4   | [블로그](https://one10004.tistory.com/110)                   | ✅    |
 | 3078  | 슬라이딩 윈도우 | [좋은 친구](https://www.acmicpc.net/problem/3078)           | Gold 3   | [블로그](https://one10004.tistory.com/207)                   | ✅    |
 | 3079  | 이분 탐색         | [입국심사](https://www.acmicpc.net/problem/3079)           | Gold 5   | [블로그](https://one10004.tistory.com/195)                   | ✅    |
