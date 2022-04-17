@@ -24,6 +24,7 @@
 | 1949  | DP   | [우수 마을](https://www.acmicpc.net/problem/1949)         | Gold 2   | [블로그](https://one10004.tistory.com/215)                    |⚠️  |
 | 2212 | 그리디   | [센서](https://www.acmicpc.net/problem/2212)       | Gold 5   | [블로그](https://one10004.tistory.com/191)                    | ✅    |
 | 2437 | 그리디   | [저울](https://www.acmicpc.net/problem/2437)       | Gold 3   | [블로그](https://one10004.tistory.com/202)                    | 🚫    |
+| 2573 | 구현, BFS | [빙산](https://www.acmicpc.net/problem/2573)       | Gold 4   | [블로그](https://one10004.tistory.com/233)                    | ✅    |
 | 2616 | DP, 구간합   | [소형기관차](https://www.acmicpc.net/problem/2616)       | Gold 4   | [블로그](https://one10004.tistory.com/209)                    | ✅    |
 | 2631 | DP   | [줄세우기](https://www.acmicpc.net/problem/2631)       | Gold 5   | [블로그](https://one10004.tistory.com/192)                    | ✅    |
 | 2632 | 누적합  | [피자판매](https://www.acmicpc.net/problem/2632)       | Gold 2   | [블로그](https://one10004.tistory.com/225)                    | ✅    |
