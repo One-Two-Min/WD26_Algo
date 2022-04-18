@@ -21,6 +21,7 @@
 | 1738  | 벨만 포드   | [골목길](https://www.acmicpc.net/problem/1738)         | Gold 2   | [블로그](https://one10004.tistory.com/91)                    | ✅    |\
 | 1765  | 유니온 파인드   | [닭싸움 팀 정하기](https://www.acmicpc.net/problem/1765)         | Gold 1| [블로그](https://one10004.tistory.com/221)                    | ✅    |
 | 1800  | 다익스트라   | [인터넷 설치](https://www.acmicpc.net/problem/1800)         | Gold 1   | [블로그](https://one10004.tistory.com/220)                    |⚠️  |
+| 1826  | 그리디 | [연료 채우기](https://www.acmicpc.net/problem/1826) | Gold 3| [블로그](https://one10004.tistory.com/236) | ✅    |
 | 1949  | DP   | [우수 마을](https://www.acmicpc.net/problem/1949)         | Gold 2   | [블로그](https://one10004.tistory.com/215)                    |⚠️  |
 | 2212 | 그리디   | [센서](https://www.acmicpc.net/problem/2212)       | Gold 5   | [블로그](https://one10004.tistory.com/191)                    | ✅    |
 | 2437 | 그리디   | [저울](https://www.acmicpc.net/problem/2437)       | Gold 3   | [블로그](https://one10004.tistory.com/202)                    | 🚫    |
