@@ -24,6 +24,7 @@
 | 1800  | 다익스트라   | [인터넷 설치](https://www.acmicpc.net/problem/1800)         | Gold 1   | [블로그](https://one10004.tistory.com/220)                    |⚠️  |
 | 1826  | 그리디 | [연료 채우기](https://www.acmicpc.net/problem/1826) | Gold 3| [블로그](https://one10004.tistory.com/236) | ✅    |
 | 1949  | DP   | [우수 마을](https://www.acmicpc.net/problem/1949)         | Gold 2   | [블로그](https://one10004.tistory.com/215)                    |⚠️  |
+| 2042  | 세그먼트 트리   | [구간 합 구하기](https://www.acmicpc.net/problem/2042) | Gold 1| [블로그](https://one10004.tistory.com/242)  | 🚫   |
 | 2116  | 브루트 포스   | [주사위 쌓기](https://www.acmicpc.net/problem/2116)         | Gold 4| [블로그](https://one10004.tistory.com/240) | ✅    |
 | 2212 | 그리디   | [센서](https://www.acmicpc.net/problem/2212)       | Gold 5   | [블로그](https://one10004.tistory.com/191)                    | ✅    |
 | 2437 | 그리디   | [저울](https://www.acmicpc.net/problem/2437)       | Gold 3   | [블로그](https://one10004.tistory.com/202)                    | 🚫    |
