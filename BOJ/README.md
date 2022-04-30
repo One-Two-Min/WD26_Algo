@@ -29,6 +29,7 @@
 | 2116  | 브루트 포스   | [주사위 쌓기](https://www.acmicpc.net/problem/2116)         | Gold 4| [블로그](https://one10004.tistory.com/240) | ✅    |
 | 2212 | 그리디   | [센서](https://www.acmicpc.net/problem/2212)       | Gold 5   | [블로그](https://one10004.tistory.com/191)                    | ✅    |
 | 2437 | 그리디   | [저울](https://www.acmicpc.net/problem/2437)       | Gold 3   | [블로그](https://one10004.tistory.com/202)                    | 🚫    |
+| 2513 | 그리디 | [통학버스](https://www.acmicpc.net/problem/2513)       | Gold 3  | [블로그](https://one10004.tistory.com/249) | ✅    |
 | 2539 | 이분탐색 | [모자이크](https://www.acmicpc.net/problem/2539)       | Gold 3  | [블로그](https://one10004.tistory.com/243) | ✅    |
 | 2550 | LIS   | [전구](https://www.acmicpc.net/problem/2550)       | Gold 3  | [블로그](https://one10004.tistory.com/248)     |  ⚠️  |
 | 2573 | 구현, BFS | [빙산](https://www.acmicpc.net/problem/2573)       | Gold 4   | [블로그](https://one10004.tistory.com/233)                    | ✅    |
