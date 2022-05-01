@@ -33,6 +33,7 @@
 | 2539 | 이분탐색 | [모자이크](https://www.acmicpc.net/problem/2539)       | Gold 3  | [블로그](https://one10004.tistory.com/243) | ✅    |
 | 2550 | LIS   | [전구](https://www.acmicpc.net/problem/2550)       | Gold 3  | [블로그](https://one10004.tistory.com/248)     |  ⚠️  |
 | 2573 | 구현, BFS | [빙산](https://www.acmicpc.net/problem/2573)       | Gold 4   | [블로그](https://one10004.tistory.com/233)                    | ✅    |
+| 2580 | 백트래킹 | [스도쿠](https://www.acmicpc.net/problem/2580)       | Gold 4   | [블로그](https://one10004.tistory.com/251)  | ✅    |
 | 2616 | DP, 구간합   | [소형기관차](https://www.acmicpc.net/problem/2616)       | Gold 4   | [블로그](https://one10004.tistory.com/209)                    | ✅    |
 | 2631 | DP   | [줄세우기](https://www.acmicpc.net/problem/2631)       | Gold 5   | [블로그](https://one10004.tistory.com/192)                    | ✅    |
 | 2632 | 누적합  | [피자판매](https://www.acmicpc.net/problem/2632)       | Gold 2   | [블로그](https://one10004.tistory.com/225)                    | ✅    |
