@@ -28,6 +28,7 @@
 | 2042  | 세그먼트 트리   | [구간 합 구하기](https://www.acmicpc.net/problem/2042) | Gold 1| [블로그](https://one10004.tistory.com/242)  | 🚫   |
 | 2116  | 브루트 포스   | [주사위 쌓기](https://www.acmicpc.net/problem/2116)         | Gold 4| [블로그](https://one10004.tistory.com/240) | ✅    |
 | 2212 | 그리디   | [센서](https://www.acmicpc.net/problem/2212)       | Gold 5   | [블로그](https://one10004.tistory.com/191)                    | ✅    |
+| 2293 | DP   | [동전 1](https://www.acmicpc.net/problem/2293)       | Gold 5   | [블로그](https://one10004.tistory.com/260)                    | ✅    |
 | 2437 | 그리디   | [저울](https://www.acmicpc.net/problem/2437)       | Gold 3   | [블로그](https://one10004.tistory.com/202)                    | 🚫    |
 | 2467  | 투 포인터 | [용액](https://www.acmicpc.net/problem/2467)         | Gold 5| [블로그](https://one10004.tistory.com/258) | ✅    |
 | 2513 | 그리디 | [통학버스](https://www.acmicpc.net/problem/2513)       | Gold 3  | [블로그](https://one10004.tistory.com/249) | ✅    |
