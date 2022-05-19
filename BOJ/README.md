@@ -11,6 +11,7 @@
 | 1027  | 브루트 포스  | [고층 건물](https://www.acmicpc.net/problem/1027)   | Gold 4   | [블로그](https://one10004.tistory.com/229)   | ✅    |
 | 1068  | DFS         | [트리](https://www.acmicpc.net/problem/1068)           | Gold 5   | [블로그](https://one10004.tistory.com/105)                   | ✅    |
 | 1072  | 이분탐색         | [게임](https://www.acmicpc.net/problem/1072)           | Silver 3   | [블로그](https://one10004.tistory.com/129)                   | ✅    |
+| 1111  | 수학   | [IQ Test](https://www.acmicpc.net/problem/1111)           | Gold 2   | [블로그](https://one10004.tistory.com/264)                   | ✅    |
 | 1167  | 그래프 | [트리의 지름](https://www.acmicpc.net/problem/1167)   | Gold 3   | [블로그](https://one10004.tistory.com/228)                   | 🚫   |
 | 1202 | 그리디   | [보석 도둑](https://www.acmicpc.net/problem/1202)       | Gold 2   | [블로그](https://one10004.tistory.com/199)                    | ✅    |
 | 1300 | 이분 탐색   | [K번째 수](https://www.acmicpc.net/problem/1300)       | Gold 2   | [블로그](https://one10004.tistory.com/188)                    | ✅    |
