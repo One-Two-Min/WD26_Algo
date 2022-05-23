@@ -25,6 +25,7 @@
 | 1781  | 그리디  | [컵라면](https://www.acmicpc.net/problem/1781) | Gold 2| [블로그](https://one10004.tistory.com/246)      | ✅    |
 | 1800  | 다익스트라   | [인터넷 설치](https://www.acmicpc.net/problem/1800)         | Gold 1   | [블로그](https://one10004.tistory.com/220)                    |⚠️  |
 | 1826  | 그리디 | [연료 채우기](https://www.acmicpc.net/problem/1826) | Gold 3| [블로그](https://one10004.tistory.com/236) | ✅    |
+| 1865  | 벨만 포드 | [웜홀](https://www.acmicpc.net/problem/1865) | Gold 3| [블로그](https://one10004.tistory.com/268) | ✅    |
 | 1949  | DP   | [우수 마을](https://www.acmicpc.net/problem/1949)         | Gold 2   | [블로그](https://one10004.tistory.com/215)                    |⚠️  |
 | 2011  | DP  | [암호 코드](https://www.acmicpc.net/problem/2011) | Gold 5| [블로그](https://one10004.tistory.com/267)  | ✅   |
 | 2042  | 세그먼트 트리   | [구간 합 구하기](https://www.acmicpc.net/problem/2042) | Gold 1| [블로그](https://one10004.tistory.com/242)  | 🚫   |
