@@ -55,6 +55,7 @@
 | 4195  | 유니온 파인드  | [친구 네트워크](https://www.acmicpc.net/problem/4195)           | Gold 2   | [블로그](https://one10004.tistory.com/197)                   | ✅    |
 | 4256  | 재귀 | [트리](https://www.acmicpc.net/problem/4256)           | Gold 3   | [블로그](https://one10004.tistory.com/218)                   | ✅    |
 | 5014  | BFS  | [스타트링크](https://www.acmicpc.net/problem/5014)  | Gold 5   | [블로그](https://one10004.tistory.com/238)  | ✅    |
+| 5639  | 재귀  | [이진 검색 트리](https://www.acmicpc.net/problem/5639)  | Gold 5   | [블로그](https://one10004.tistory.com/269)  | ✅    |
 | 6087  | BFS  | [레이저 통신](https://www.acmicpc.net/problem/6087)  | Gold 3  | [블로그](https://one10004.tistory.com/259)  | ✅    |
 | 7453  | 투 포인터, 이분탐색 | [합이 0인 네 정수](https://www.acmicpc.net/problem/7453) | Gold 2   | [블로그](https://one10004.tistory.com/244) | ⚠️     |
 | 8980  | 그리디 | [택배](https://www.acmicpc.net/problem/8980)           | Gold 3   | [블로그](https://one10004.tistory.com/214)                   | ✅    |
