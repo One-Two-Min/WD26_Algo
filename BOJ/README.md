@@ -73,6 +73,7 @@
 | 11404 | 최단 경로   | [플로이드](https://www.acmicpc.net/problem/11404)      | Gold 4   | [블로그](https://one10004.tistory.com/84?category=875952)    | ✅    |
 | 11657 | 최단 경로   | [타임머신](https://www.acmicpc.net/problem/11657)      | Gold 4   | [블로그](https://one10004.tistory.com/86)                    | ✅    |
 | 11725 | BFS   | [트리의 부모 찾기](https://www.acmicpc.net/problem/11725)       | Silver 2  | [블로그](https://one10004.tistory.com/185)                    | ✅    |
+| 11779 | 다익스트라 | [최소비용 구하기 2](https://www.acmicpc.net/problem/11779) | Gold 3  | [블로그](https://one10004.tistory.com/273) | ✅    |
 | 12851 | BFS   | [숨바꼭질 2](https://www.acmicpc.net/problem/12851)       | Gold 5  | [블로그](https://one10004.tistory.com/271) | ✅    |
 | 13975 | 우선순위 큐   | [파일 합치기 3](https://www.acmicpc.net/problem/13975)       | Gold 4  | [블로그](https://one10004.tistory.com/189)                    | ✅    |
 | 14466 | BFS| [소가 길을 건너간 이유 6](https://www.acmicpc.net/problem/14466)    | Gold 4  | [블로그](https://one10004.tistory.com/231)     | ✅    |
