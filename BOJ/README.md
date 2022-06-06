@@ -33,6 +33,7 @@
 | 2116  | 브루트 포스   | [주사위 쌓기](https://www.acmicpc.net/problem/2116)         | Gold 4| [블로그](https://one10004.tistory.com/240) | ✅    |
 | 2141  | 그리디   | [우체국](https://www.acmicpc.net/problem/2141)         | Gold 4| [블로그](https://one10004.tistory.com/276) |  🚫  |
 | 2212 | 그리디   | [센서](https://www.acmicpc.net/problem/2212)       | Gold 5   | [블로그](https://one10004.tistory.com/191)                    | ✅    |
+| 2240 | DP   | [자두나무](https://www.acmicpc.net/problem/2240)       | Gold 5   | [블로그](https://one10004.tistory.com/277)                    | ⚠️ |
 | 2263 | 재귀 | [트리의 순회](https://www.acmicpc.net/problem/2263)       | Gold 2   | [블로그](https://one10004.tistory.com/270) | ✅    |
 | 2293 | DP   | [동전 1](https://www.acmicpc.net/problem/2293)       | Gold 5   | [블로그](https://one10004.tistory.com/260)                    | ✅    |
 | 2437 | 그리디   | [저울](https://www.acmicpc.net/problem/2437)       | Gold 3   | [블로그](https://one10004.tistory.com/202)                    | 🚫    |
