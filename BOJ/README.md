@@ -48,6 +48,7 @@
 | 2580 | 백트래킹 | [스도쿠](https://www.acmicpc.net/problem/2580)       | Gold 4   | [블로그](https://one10004.tistory.com/251)  | ✅    |
 | 2616 | DP, 구간합   | [소형기관차](https://www.acmicpc.net/problem/2616)       | Gold 4   | [블로그](https://one10004.tistory.com/209)                    | ✅    |
 | 2624 | DP  | [동전 바꿔주기](https://www.acmicpc.net/problem/2624) | Gold 5 | [블로그](https://one10004.tistory.com/281) | ✅    |
+| 2629 | DP  | [양팔저울](https://www.acmicpc.net/problem/2629) | Gold 3 | [블로그](https://one10004.tistory.com/287) | ✅    |
 | 2631 | DP   | [줄세우기](https://www.acmicpc.net/problem/2631)       | Gold 5   | [블로그](https://one10004.tistory.com/192)                    | ✅    |
 | 2632 | 누적합  | [피자판매](https://www.acmicpc.net/problem/2632)       | Gold 2   | [블로그](https://one10004.tistory.com/225)                    | ✅    |
 | 2660 | BFS | [회장뽑기](https://www.acmicpc.net/problem/2660)       | Gold 5 | [블로그](https://one10004.tistory.com/257)                    | ✅    |
