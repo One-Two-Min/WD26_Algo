@@ -40,6 +40,7 @@
 | 2293 | DP   | [동전 1](https://www.acmicpc.net/problem/2293)       | Gold 5   | [블로그](https://one10004.tistory.com/260)                    | ✅    |
 | 2437 | 그리디   | [저울](https://www.acmicpc.net/problem/2437)       | Gold 3   | [블로그](https://one10004.tistory.com/202)                    | 🚫    |
 | 2467  | 투 포인터 | [용액](https://www.acmicpc.net/problem/2467)         | Gold 5| [블로그](https://one10004.tistory.com/258) | ✅    |
+| 2473  | 투 포인터 | [세 용액](https://www.acmicpc.net/problem/2473)         | Gold 3| [블로그](https://one10004.tistory.com/288) | ⚠️    |
 | 2513 | 그리디 | [통학버스](https://www.acmicpc.net/problem/2513)       | Gold 3  | [블로그](https://one10004.tistory.com/249) | ✅    |
 | 2539 | 이분탐색 | [모자이크](https://www.acmicpc.net/problem/2539)       | Gold 3  | [블로그](https://one10004.tistory.com/243) | ✅    |
 | 2550 | LIS   | [전구](https://www.acmicpc.net/problem/2550)       | Gold 3  | [블로그](https://one10004.tistory.com/248)     |  ⚠️  |
