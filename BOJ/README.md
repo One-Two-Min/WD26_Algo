@@ -70,6 +70,7 @@
 | 7453  | 투 포인터, 이분탐색 | [합이 0인 네 정수](https://www.acmicpc.net/problem/7453) | Gold 2   | [블로그](https://one10004.tistory.com/244) | ⚠️     |
 | 8980  | 그리디 | [택배](https://www.acmicpc.net/problem/8980)           | Gold 3   | [블로그](https://one10004.tistory.com/214)                   | ✅    |
 | 9251  | DP | [LCS](https://www.acmicpc.net/problem/9251)           | Gold 5 | [블로그](https://one10004.tistory.com/253)    | ✅    |
+| 9252 | DP | [LCS 2](https://www.acmicpc.net/problem/9252)           | Gold 4 | [블로그](https://one10004.tistory.com/289)    | ✅    |
 | 9370  | 다익스트라 | [미확인 도착지](https://www.acmicpc.net/problem/9370) | Gold 2  | [블로그](https://one10004.tistory.com/262)     | ⚠️   |
 | 9466  | DFS | [텀 프로젝트](https://www.acmicpc.net/problem/9466)           | Gold 3   | [블로그](https://one10004.tistory.com/205)                   | ✅    |
 | 9663  | 백트래킹 | [N-Queen](https://www.acmicpc.net/problem/9663)           | Gold 5   | [블로그](https://one10004.tistory.com/206)                   | ✅    |
