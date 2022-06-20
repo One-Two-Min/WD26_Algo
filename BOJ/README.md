@@ -38,6 +38,7 @@
 | 2251 | BFS | [물통](https://www.acmicpc.net/problem/2251)       | Gold 5   | [블로그](https://one10004.tistory.com/285) | ✅    |
 | 2263 | 재귀 | [트리의 순회](https://www.acmicpc.net/problem/2263)       | Gold 2   | [블로그](https://one10004.tistory.com/270) | ✅    |
 | 2293 | DP   | [동전 1](https://www.acmicpc.net/problem/2293)       | Gold 5   | [블로그](https://one10004.tistory.com/260)                    | ✅    |
+| 2342 | DP   | [Dance Dance Revolution](https://www.acmicpc.net/problem/2342) | Gold 3 | [블로그](https://one10004.tistory.com/290) | ✅    |
 | 2437 | 그리디   | [저울](https://www.acmicpc.net/problem/2437)       | Gold 3   | [블로그](https://one10004.tistory.com/202)                    | 🚫    |
 | 2467  | 투 포인터 | [용액](https://www.acmicpc.net/problem/2467)         | Gold 5| [블로그](https://one10004.tistory.com/258) | ✅    |
 | 2473  | 투 포인터 | [세 용액](https://www.acmicpc.net/problem/2473)         | Gold 3| [블로그](https://one10004.tistory.com/288) | ⚠️    |
