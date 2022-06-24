@@ -21,6 +21,7 @@
 | 1647  | 그래프   | [도시 분할 계획](https://www.acmicpc.net/problem/1647)         | Gold 4   | [블로그](https://one10004.tistory.com/198)                    | ✅    |
 | 1655  | 우선순위 큐   | [가운데를 말해요](https://www.acmicpc.net/problem/1655)         | Gold 2| [블로그](https://one10004.tistory.com/208)                    | ✅    |
 | 1700  | 그리디   | [멀티탭 스케줄링](https://www.acmicpc.net/problem/1700)         | Gold 1   | [블로그](https://one10004.tistory.com/204)                    | ✅    |
+| 1719  | 플로이드 워셜   | [택배](https://www.acmicpc.net/problem/1719)         | Gold 3   | [블로그](https://one10004.tistory.com/293) | ✅    |
 | 1738  | 벨만 포드   | [골목길](https://www.acmicpc.net/problem/1738)         | Gold 2   | [블로그](https://one10004.tistory.com/91)                    | ✅    |\
 | 1765  | 유니온 파인드   | [닭싸움 팀 정하기](https://www.acmicpc.net/problem/1765)         | Gold 1| [블로그](https://one10004.tistory.com/221)                    | ✅    |
 | 1774  | 최소 스패닝 트리 | [우주신과의 교감](https://www.acmicpc.net/problem/1774) | Gold 3| [블로그](https://one10004.tistory.com/280) | ✅    |
