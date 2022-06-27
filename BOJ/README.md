@@ -65,6 +65,7 @@
 | 3745  | LIS | [오름세](https://www.acmicpc.net/problem/3745)           | Gold 2   | [블로그](https://one10004.tistory.com/216)                   | ✅    |
 | 4195  | 유니온 파인드  | [친구 네트워크](https://www.acmicpc.net/problem/4195)           | Gold 2   | [블로그](https://one10004.tistory.com/197)                   | ✅    |
 | 4256  | 재귀 | [트리](https://www.acmicpc.net/problem/4256)           | Gold 3   | [블로그](https://one10004.tistory.com/218)                   | ✅    |
+| 4386  | 최소 스패닝 트리 | [별자리 만들기](https://www.acmicpc.net/problem/4386)           | Gold 4   | [블로그](https://one10004.tistory.com/295) | ✅    |
 | 4803  | DFS | [트리](https://www.acmicpc.net/problem/4803)           | Gold 4   | [블로그](https://one10004.tistory.com/294) | ✅    |
 | 4811  | DP | [알약](https://www.acmicpc.net/problem/4811)           | Gold 5   | [블로그](https://one10004.tistory.com/282) | ✅    |
 | 5014  | BFS  | [스타트링크](https://www.acmicpc.net/problem/5014)  | Gold 5   | [블로그](https://one10004.tistory.com/238)  | ✅    |
