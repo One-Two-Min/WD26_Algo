@@ -90,6 +90,7 @@
 | 11725 | BFS   | [트리의 부모 찾기](https://www.acmicpc.net/problem/11725)       | Silver 2  | [블로그](https://one10004.tistory.com/185)                    | ✅    |
 | 11779 | 다익스트라 | [최소비용 구하기 2](https://www.acmicpc.net/problem/11779) | Gold 3  | [블로그](https://one10004.tistory.com/273) | ✅    |
 | 12851 | BFS   | [숨바꼭질 2](https://www.acmicpc.net/problem/12851)       | Gold 5  | [블로그](https://one10004.tistory.com/271) | ✅    |
+| 13023 | DFS   | [ABCDE](https://www.acmicpc.net/problem/13023)       | Gold 5  | [블로그](https://one10004.tistory.com/296) | ✅    |
 | 13905 | 이분탐색 + BFS   | [세부](https://www.acmicpc.net/problem/13905) | Gold 4  | [블로그](https://one10004.tistory.com/286) | ⚠️    |
 | 13975 | 우선순위 큐   | [파일 합치기 3](https://www.acmicpc.net/problem/13975)       | Gold 4  | [블로그](https://one10004.tistory.com/189)                    | ✅    |
 | 14466 | BFS| [소가 길을 건너간 이유 6](https://www.acmicpc.net/problem/14466)    | Gold 4  | [블로그](https://one10004.tistory.com/231)     | ✅    |
