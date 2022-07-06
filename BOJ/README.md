@@ -35,7 +35,8 @@
 | 2109  | 그리디   | [순회공연](https://www.acmicpc.net/problem/2109)         | Gold 3| [블로그](https://one10004.tistory.com/297) | ✅    |
 | 2116  | 브루트 포스   | [주사위 쌓기](https://www.acmicpc.net/problem/2116)         | Gold 4| [블로그](https://one10004.tistory.com/240) | ✅    |
 | 2141  | 그리디   | [우체국](https://www.acmicpc.net/problem/2141)         | Gold 4| [블로그](https://one10004.tistory.com/276) |  🚫  |
-| 2212 | 그리디   | [센서](https://www.acmicpc.net/problem/2212)       | Gold 5   | [블로그](https://one10004.tistory.com/191)                    | ✅    |
+| 2208 | 누적합   | [보석 줍기](https://www.acmicpc.net/problem/2208)       | Gold 2   | [블로그](https://one10004.tistory.com/301)                    | ✅    |
+| 2212 | 그리디   | [센서](https://www.acmicpc.net/problem/2212)       | Gold 5   | [블로그](https://one10004.tistory.com/191)                    | ⚠️    |
 | 2240 | DP   | [자두나무](https://www.acmicpc.net/problem/2240)       | Gold 5   | [블로그](https://one10004.tistory.com/277)                    | ⚠️ |
 | 2251 | BFS | [물통](https://www.acmicpc.net/problem/2251)       | Gold 5   | [블로그](https://one10004.tistory.com/285) | ✅    |
 | 2263 | 재귀 | [트리의 순회](https://www.acmicpc.net/problem/2263)       | Gold 2   | [블로그](https://one10004.tistory.com/270) | ✅    |
