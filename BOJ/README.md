@@ -110,6 +110,7 @@
 | 16938 | 조합  | [캠프 준비](https://www.acmicpc.net/problem/16938)      | Gold 5   | [블로그](https://one10004.tistory.com/298)    | ✅  |
 | 17071 | BFS   | [숨바꼭질 5](https://www.acmicpc.net/problem/17071) | Gold 1  | [블로그](https://one10004.tistory.com/279) | ⚠️   |
 | 17136 | 백트래킹   | [색종이 붙이기](https://www.acmicpc.net/problem/17136) | Gold 2   | [블로그](https://one10004.tistory.com/278) | ✅    |
+| 17141 | 브루트 포스, BFS| [연구소 2](https://www.acmicpc.net/problem/17141)       | Gold 4   | -  | ✅    |
 | 17144 | 구현   | [미세먼지 안녕!](https://www.acmicpc.net/problem/17144)       | Gold 4   | [블로그](https://one10004.tistory.com/190)                    | ✅    |
 | 17182 | 플로이드 워셜   | [우주 탐사선](https://www.acmicpc.net/problem/17182)       | Gold 2   | [블로그](https://one10004.tistory.com/196)                    | ✅    |
 | 17472 | 구현 | [다리 만들기 2](https://www.acmicpc.net/problem/17472) | Gold 1  | [블로그](https://one10004.tistory.com/250) | ✅    |
