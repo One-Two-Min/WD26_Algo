@@ -107,6 +107,7 @@
 | 15997 | 브루트 포스  | [승부 예측](https://www.acmicpc.net/problem/15997)      | Gold 3   | [블로그](https://one10004.tistory.com/211)    | ✅    |
 | 15998 | 구현  | [카카오머니](https://www.acmicpc.net/problem/15998)      | Gold 3   | [블로그](https://one10004.tistory.com/261)    | ⚠️   |
 | 16398 | 최소 스패닝 트리  | [행성 연결](https://www.acmicpc.net/problem/16398)      | Gold 4   | [블로그](https://one10004.tistory.com/292)    | ✅  |
+| 16724 | DFS  | [피리 부는 사나이](https://www.acmicpc.net/problem/16724)      | Gold 3   | [블로그](https://one10004.tistory.com/302)    | ✅  |
 | 16938 | 조합  | [캠프 준비](https://www.acmicpc.net/problem/16938)      | Gold 5   | [블로그](https://one10004.tistory.com/298)    | ✅  |
 | 17071 | BFS   | [숨바꼭질 5](https://www.acmicpc.net/problem/17071) | Gold 1  | [블로그](https://one10004.tistory.com/279) | ⚠️   |
 | 17136 | 백트래킹   | [색종이 붙이기](https://www.acmicpc.net/problem/17136) | Gold 2   | [블로그](https://one10004.tistory.com/278) | ✅    |
